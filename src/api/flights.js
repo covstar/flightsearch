@@ -20,3 +20,5 @@ export const fetchFlights = async (query, date) => {
 		throw new Error("Failed to fetch flight data.");
 	}
 };
+
+// API KEY: ed850ac38emsh17c1628f50d0029p1fa1e3jsn92c7e253c801
