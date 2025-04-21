@@ -15,8 +15,8 @@ RapidAPI account with a subscription to the Sky Scrapper API
 Setup
 
 Clone the repository:
-git clone https://github.com/username/flight-search-app.git
-cd flight-search-app
+git clone https://github.com/covstar/flightsearch.git
+cd flightsearch
 
 
 Install dependencies:
